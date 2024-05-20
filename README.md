@@ -1,13 +1,16 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.licdn.com/dms/image/D4D03AQFs0itZbdi_Ww/profile-displayphoto-shrink_400_400/0/1701306763859?e=1721865600&v=beta&t=QhDY5wYJEbL_ZOuKDhIs0ZIMw7uQeunoc7bNeFgr9VQ"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/leonardo-cotta-873773183/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/leonardocotta_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -18,19 +21,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Benvenuto! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Info su di me</h3>
 
 ###
 
-<p align="left">I'm Leonardo from Italy<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Mi chiamo Leonardo Cotta vivo in Italia 🇮🇹 <br> <br>In questi anni ho intrapreso svariate esperienze lavorative e professionali in italia e all’estero come:<br><br>- Graphic Designer<br>- Web Developer<br>- Video maker<br><br>Ho sviluppato svariati progetti personali come:<br><br>- Siti web, <br>- Applicazioni mobile<br>- Web app<br>- Videogiochi 2D per web, dispositivi mobili, desktop e console. <br><br>Ho voglia d'imparare, di non fermarmi mai, raggiungere ogni obiettivo imposto e mettermi sempre alla prova, aperto e pronto per qualsiasi nuova esperienza appassionante.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguaggi e Framework</h3>
 
 ###
 
@@ -52,12 +55,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Le mie statistiche :</h3>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=meneyvaro11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=meneyvaro11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meneyvaro11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
